@@ -1,0 +1,4 @@
+# Gitlab volumes
+config/
+data/
+logs/
